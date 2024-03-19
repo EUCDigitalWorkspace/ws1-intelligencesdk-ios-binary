@@ -1,0 +1,2 @@
+By integrating or downloading the software development kit (SDK) you accept the VMware Workspace ONE SDK License Agreement that is posted here https://code.vmware.com/docs/12215/VMwareWorkspaceONESDKLicenseAgreement.pdf.
+This applies however you obtain the software.
